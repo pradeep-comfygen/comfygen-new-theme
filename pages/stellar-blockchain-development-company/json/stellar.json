@@ -1,0 +1,168 @@
+{
+  "LaunchSteps": [
+    {
+      "num": "01",
+      "title": "Flexibility",
+      "desc": "When you tend to work over the Stellar network, you are expected to work on diverse operations at the same time. The Stellar blockchain app will provide you with the feasibility of performing multiple operations such as transactions, payments, and others."
+    },
+    {
+      "num": "02",
+      "title": "Security",
+      "desc": "You definitely need a very secure environment for processing the money transfers from source to destination. Stellar network is quite secure as all the information over it is kept a secret and is mostly encrypted between the multiple parties within whom the transaction is being processed."
+    },
+    {
+      "num": "03",
+      "title": "Lower transfer fee",
+      "desc": "With the Stellar blockchain development solutions, you can expect the transaction fees to be set quite low, which will be a small fraction of the overall money being transferred. You will not be able to notice any difference in the transferred money."
+    },
+    {
+      "num": "04",
+      "title": "Reconciling transactions",
+      "desc": "You have the liberty to reverse almost any transaction or freeze any specific problematic part of the Stellar while executing proper steps within the given time. It will help you protect your money from various fraudulent activities. "
+    },
+    {
+      "num": "05",
+      "title": "Optimal payment",
+      "desc": "The Stellar blockchain development solutions are meant to support you with cross-border payments, ensuring frictionless or faster transactions by reducing the overall turnaround time. "
+    },
+    {
+      "num": "06",
+      "title": "Auditable code",
+      "desc": "The Stellar smart contracts are developed with the use of auditable or efficient codes, which further enhances the security of the end outcomes. We conduct systematic and structured reviews of code for the blockchain development project along with manual execution. This process includes the extensive usage of static code analysis tools and strategies."
+    }
+  ],
+  "Hire": [
+    {
+      "num": "1",
+      "title": "Hire Professional Experts in Stellar Blockchain Development for Web3 Projects",
+      "desc": "At Comfygen, our experts are skilled and trained in handling various complex attributes of Stellar blockchain development, especially for Web3 projects. Irrespective of whether you are a new tech startup or an established enterprise, we provide you with dedicated experts to develop Web3-centric blockchain projects using the Stellar network. The core expertise of our Stellar developer is to strategize, design, engineer, and launch successful digital solutions. Hire our experts today, and you shall find no loopholes making their way into your Stellar blockchain apps.",
+      "url": "/contact-us",
+      "btn": "Hire Developer"
+    }
+  ],
+  "myList": [
+    "End-to-end skillset on approaching blockchain development projects",
+    "Experts will provide you with a detailed requirement analysis.",
+    "Assist you in picking the right technology stack for deriving productive Stellar apps.",
+    "Meet all the compliance or regulatory guidelines while executing Stellar development."
+  ],
+  "LatestTechno": [
+    {
+      "num": "01",
+      "title": "Dedicated Development Team",
+      "decs": "At Comfygen, we have a dedicated team of Stellar blockchain developers meant to handle solo projects of clients upon their requests. It means that a specific team will be assigned to you privately to complete your project on priority without taking up any other organizational tasks at Comfygen."
+    },
+    {
+      "num": "02",
+      "title": "Team Extension Model",
+      "decs": "We also provide our experts with the feature of availing team extension services. It means that if your project needs some additional support from core team members or to meet your deployment deadlines. Upon your request, we will be assigning more team members to work collectively on your project."
+    },
+    {
+      "num": "03",
+      "title": "Project-specific Team",
+      "decs": "We also provide a project-specific team to attend to your Stellar blockchain development requirements, with a unique process or method of approach as per your project demands. We will apply customized Stellar blockchain development solutions for different project types based on their necessities. "
+    }
+  ],
+  "WhyChoose": [
+    {
+      "num": "01",
+      "title": "Years of Experience",
+      "decs": "We have a plethora of experience and advanced expertise in the dedicated arena of Stellar blockchain development for you to get the best of solutions for scaling the financial proficiency of your business."
+    },
+    {
+      "num": "02",
+      "title": "Security",
+      "decs": "Comfygen is a completely trusted Stellar blockchain app development company that employs the best development or coding practices with the utmost security or privacy aspects taken care of."
+    },
+    {
+      "num": "03",
+      "title": "Agile development",
+      "decs": "All our experts are skilled or trained to adopt an agile methodology, allowing them to respond instantly to the slightest change. We will be open to reconsidering the work strategy for meeting every demand. "
+    },
+    {
+      "num": "04",
+      "title": "Clear development roadmap",
+      "decs": "We curate a perfect development roadmap in order to approach the clients’ Stellar blockchain projects in the most proficient manner possible. The clear approach would ensure error-free deployment."
+    },
+    {
+      "num": "05",
+      "title": "Round-the-clock support",
+      "decs": "Comfygen offers 24/7 customer support solutions to our clients to answer their questions or queries associated with the Stellar blockchain development solution . You will get round-the-clock assistance to fix your technical issues."
+    },
+    {
+      "num": "06",
+      "title": "Compliance and governance",
+      "decs": "We will make sure that your Stellar blockchain app meets all the compliance or governance rules specified by the respective authorities.We keep up with the standard regulations and security practices in every stage of development.  "
+    }
+  ],
+  "myList3": [
+    "Healthcare",
+    "Gaming",
+    "Supply Chain Management",
+    "Ecommerce and Retail",
+    "Digital Verification",
+    "Cryptocurrency Trading"
+  ],
+  "Major": {
+    "title": "Core Components Underlying Stellar Blockchain Development",
+    "decs": "Here are some of the core components that we adopt in order to approach the Stellar blockchain development projects:"
+  },
+  "Service": [
+    {
+      "num": "01",
+      "img": "/img/bridge-server.webp",
+      "title": "Bridge Server",
+      "decs": "When it is about simplifying the network, a Bridge Server is considered the best tool for approaching the same. Our developers make use of it in order to create a simple UI for your Stellar network. We will make it easy for you to simplify the complex integration or operations of the Stellar network, which will result in reliable and faster transactions. "
+    },
+    {
+      "num": "02",
+      "img": "/img/horizon.webp",
+      "title": "Horizon",
+      "decs": "Horizon is better known as the Stellar API server, which is used for facing clients. It enables the users to gain access to specific operations such as registering transactions, examining accounts, signing up for different verified happenings, or others. Our team can help you build various apps specific to your business through Stellar Blockchain technology for easily connecting to the network through the Horizon tool. "
+    },
+    {
+      "num": "03",
+      "img": "/img/stellar-core.webp",
+      "title": "Stellar Core",
+      "decs": "Our team considers Stellar core as the backbone or support of the overall Stellar network. The purpose of it is to keep track of all the transactions that take place over the network. All the agreement and validation process goes through the Stellar consensus mechanisms or protocol, and it has also made the entire system more secure or valid for the end users."
+    },
+    {
+      "num": "04",
+      "img": "/img/federation-server.webp",
+      "title": "Federation Server",
+      "decs": "The Federation Server is used by our team to extract data from the SQL database. It is one of the best protocol servers that is meant to be directly applied to the existing network framework. This server helps in managing tokens and offers easier access to the directory, subdirectories and files.We make sure to offer authentication and service access to multiple systems in different enterprises. "
+    }
+  ],
+  "TecnologisStack": [
+    {
+      "num": "1",
+      "title": "Feasibility Assessment",
+      "stack": "We have a team of experienced blockchain consultants or developers to assess your requirements associated with the use of the Stellar network for creating dedicated blockchain development solutions.  "
+    },
+    {
+      "num": "2",
+      "title": "Platform Identification",
+      "stack": "The consulting team will then determine the ideal blockchain platform to support your business requirements and the type of framework needed to approach the Stellar blockchain development project."
+    },
+    {
+      "num": "3",
+      "title": "User Experience and Technical Design",
+      "stack": "We have the proficiency to help you with high-performance designs for the Stellar blockchain development projects, which will ensure optimal user experience for your business. We also carry out the technical design by determining the specific components, platform database, and other such aspects."
+    },
+    {
+      "num": "4",
+      "title": "App development",
+      "stack": "We are a leading and trusted Stellar development services company. Our developers hold expertise in developing robust, highly secured and well-performing applications. Our development experts will comment on developing Stellar blockchain apps or smart contracts to deliver you a robust, reliable, and cost-efficient solution."
+    },
+    {
+      "num": "5",
+      "title": "Deployment and testing",
+      "stack": "Before the Stellar blockchain app can be deployed, it will be tested with utmost thoroughness to ensure that every module within it is secure and free from all logical flaws. The code for the blockchain network won’t be made available for any commercial usage until the testing aspects are over."
+    },
+    {
+      "num": "6",
+      "title": "After Launch Maintenance",
+      "stack": "After the Stellar blockchain solution is launched, we will be monitoring the release of new OS versions or third-party updates, which will provide immense support to your business by scaling the functionality of the Stellar app. Overall, our experts will take care of every aspect of launching and maintenance."
+    }
+  ]
+}

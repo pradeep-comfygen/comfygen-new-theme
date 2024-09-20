@@ -1,0 +1,124 @@
+{
+  "NewSections": {
+    "title": "Best Next.js development Services ",
+    "decs": "Leading and reputable Next.js development company Comfygen provides all-inclusive NextJS development services. We provide high-performance and feature-rich solutions as experts in developing Next.js online applications. Our team of skilled Next.js developers is available for hire and offers professional Next.js development services catered to your unique requirements. We are a favored option for consumers looking for dependable and affordable solutions as an Indian-based Next.js development firm. "
+  },
+  "Whychoose": [
+    {
+      "num": "01",
+      "title": "Advantages Of Using Next.JS",
+      "decs": "By creating a tailored user experience focused on targeted users, Next JS increases conversion rates and enhances sales. There are also other advantages to it."
+    }
+  ],
+  "Bestchoice": [
+    {
+      "num": "01",
+      "bg": "#F45F391A",
+      "title": " Reloading of hot codes",
+      "decs": "This mode explains that each player’s moves are forced by the cards the player is dealt"
+    },
+    {
+      "num": "02",
+      "bg": "#F7F5FA",
+      "title": "Baccarat Chemin De Fer",
+      "decs": "When Next JS detects any changes saved to the disk, it automatically reloads the page. It’s this feature that sets Next JS apart from the rest!"
+    },
+    {
+      "num": "03",
+      "bg": "#9A4ECC1A",
+      "title": "Server-side rendering    ",
+      "decs": "React components can be rendered on the server side using Next JS. Before the HTML is sent to the client, it can be checked."
+    },
+    {
+      "num": "04",
+      "bg": "#6C54DE1A",
+      "title": "Elements that can be reused",
+      "decs": "In addition to React, Next JS elements can also be reused multiple times to build more UI instances."
+    },
+    {
+      "num": "05",
+      "bg": "#eb7dc61A",
+      "title": "Rendering in advance",
+      "decs": "Creating data-driven and server-rendered applications has never been easier thanks to Next JS!"
+    },
+    {
+      "num": "06",
+      "bg": "#3C45341A",
+      "title": "Adaptability",
+      "decs": "Scalability is a key feature of Next JS. Small build size and faster dev compilation are amazing features!"
+    }
+  ],
+  "Planning": [
+    {
+      "num": "01",
+      "bg": "#F1F5F9",
+      "title": "Apps that are adaptable and responsive",
+      "decs": "It is possible to run Next Js applications on any device and view them on any screen."
+    },
+    {
+      "num": "02",
+      "bg": "#F1F5F9",
+      "title": "Security of data",
+      "decs": "Data, dependencies, users, and other sensitive information are not directly accessible by static web apps."
+    },
+    {
+      "num": "03",
+      "bg": "#F1F5F9",
+      "title": "Launching faster",
+      "decs": "MVPs can be developed more quickly with NextJS` predesigned components."
+    },
+    {
+      "num": "04",
+      "bg": "#F1F5F9",
+      "title": "Channels of distribution",
+      "decs": "Apps built with NextJS facilitate multi-channel sales of your products and services."
+    },
+    {
+      "num": "05",
+      "bg": "#F1F5F9",
+      "title": "Page loading is faster    ",
+      "decs": "Improved performance of static websites enhances customer engagement."
+    },
+    {
+      "num": "06",
+      "bg": "#F1F5F9",
+      "title": "On-demand support",
+      "decs": "The development and support of Next Js apps can be handled by a Next Js app development agency."
+    }
+  ],
+  "Hire": [
+    {
+      "num": "1",
+      "title": "Hire Next.JS Developers",
+      "desc": "Among all the frameworks available, Next JS is one of the most popular. Therefore, most of our web applications are built using it in the backend. The platform's speed and performance make it possible for companies to launch outstanding applications. Nonetheless, it can be hard to find a reasonable price for the expertise needed for the job. The project requires an expert in Next JS to build a powerful backend. There should be a salary range of $31,680 and $150,000 for a remote Next js developer. It costs between $22 and $80 per hour to hire remote Next JS developers. You can make better decisions by understanding why developer hourly wages differ.What skills are required of Next.js developers?",
+      "url": "/contact-us",
+      "btn": "Hire Developer"
+    }
+  ],
+  "myList": [
+    "Thinking like a designer.",
+    "JavaScript proficiency is required",
+    "Expertise in Next.js.",
+    "It is necessary to be able to program functionally, asynchronously, and parallelly",
+    "Understanding mobile and web delivery platforms is essential.",
+    "Front-end technology expertise",
+    "Integration of modules and debugging of existing bugs are essential skills"
+  ],
+  "Frequently": [
+    {
+      "num": "1",
+      "title": "Next Js is used for what ?",
+      "desc": "With Next Js, you can create powerful static and dynamic web pages that are highly scalable, cost-effective, and highly performant for a wide range of vertical industries."
+    },
+    {
+      "num": "2",
+      "title": "What are the features of Next Js ?",
+      "desc": "Rendering on the server, Reloading hot codes, Splitting the code ,SEO that works better , A high level of performance"
+    },
+    {
+      "num": "3",
+      "title": "What are the benefits of Next Js for SEO ?",
+      "desc": "Next.Js helps you build websites and applications that are more search engine-friendly and indexable with features such as server-side rendering"
+    }
+  ]
+}

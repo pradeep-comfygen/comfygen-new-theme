@@ -1,0 +1,86 @@
+{
+  "NewSections": {
+    "title": "Choose Top Altcoin Development Services",
+    "decs": "We are an Indian-based startup that specializes in developing and improving altcoins. We can assist your altcoin's value and trade efficiency be optimized thanks to our knowledge of blockchain technologies. No matter if you need to create a brand-new altcoin or enhance an existing one, our team of professionals is prepared to produce excellent outcomes. We provide all-inclusive cryptocurrency development services with an emphasis on safety and creativity. We are your reliable partner if you're searching for engaging expertise in altcoin development. Decide to work with us as your cryptocurrency development firm, and we'll help you launch a profitable altcoin project."
+  },
+  "Process": [
+    {
+      "num": "1",
+      "img": "/img/whitepaper-creation.webp",
+      "bg": "#F8EBE8",
+      "title": "Whitepaper creation and ideation",
+      "decs": "Our goal will be to analyze and interact deeply with the team to develop the best achievable vision that could be presented in the white paper."
+    },
+    {
+      "num": "2",
+      "bg": "#EFE9F7",
+      "img": "/img/creation-of-altcoin.webp",
+      "title": "Creation of altcoins",
+      "decs": "Our team of experts develops custom altcoins on the blockchain network based on your specifications."
+    },
+    {
+      "num": "3",
+      "img": "/img/marketing-of-ico.webp",
+      "bg": "#E3F0FC",
+      "title": "Marketing of an ICO",
+      "decs": "To enhance community support, we will use various mediums, such as Twitter, Telegram, etc., to enhance community support."
+    },
+    {
+      "num": "4",
+      "img": "/img/initial-coin-offering.webp",
+      "bg": "#ECF2E4",
+      "title": "The initial coin offering",
+      "decs": "At specific points, open up Pre-ICOs and ICOs so that your coin’s value increases and your investment amount is determined."
+    },
+    {
+      "num": "5",
+      "img": "/img/coin-drop-wallet-setup.webp",
+      "bg": "#EEE0E5",
+      "title": "Coin Drop & Wallet Setup",
+      "decs": "To store your altcoin safely and allow secure exchanges, we develop advanced wallets that can be downloaded onto your mobile device or placed on your web browser."
+    }
+  ],
+  "Frequently": [
+    {
+      "num": "1",
+      "title": "Do Altcoins Have Hidden Costs ?",
+      "desc": "Don’t worry; our payment collection will be transparent, so there won’t be any hidden charges."
+    },
+    {
+      "num": "2",
+      "title": "Are There Any Discounts Available ?",
+      "desc": "We will charge you based on your requirements if you require additional features beyond the agreed scope. Seasonal discounts are available."
+    },
+    {
+      "num": "3",
+      "title": "Would You Be Able To Brief Me Over The Phone On The Pricing Involved ?",
+      "desc": "Our calls can be used to discuss the scope and pricing details. We will list the features discussed over the phone, and once confirmation is received, we will proceed accordingly."
+    },
+    {
+      "num": "4",
+      "title": "Is My Project Secure ?",
+      "desc": "Our team will ensure the highest level of security for your project, or else we can sign NDA agreements with you for your transparency."
+    },
+    {
+      "num": "5",
+      "title": "What Is The Level Of Experience Of Your Altcoin Developers ?",
+      "desc": "Security, scalability, and performance are crucial features that must be present in crypto exchanges. It is more likely that the exchange fortified with these features will gain more users and become a more reliable option."
+    },
+    {
+      "num": "6",
+      "title": "How Do Developcoins Work With Tools & Technologies ?",
+      "desc": "Solidity – programming languages for Ethereum Truffle – Ethereum-based applications 1.* Ether.js – Ethereum ecosystem based on Metamask 2. * The use of technology, such as blockchain * Standards such as ERC, Tron, Neo, Eos, etc."
+    }
+  ],
+  "myList1": [
+    "Development of custom altcoins",
+    "We offer a variety of solutions for cryptocurrency development",
+    "The creation of white papers",
+    "Setup of the ICO business module",
+    "Cryptocurrency wallet development services",
+    "A platform for cryptocurrencies exchange",
+    "Development and marketing of ICOs, IDOs, IEOs, and other fundraising mechanisms",
+    "Development of blockchains",
+    "Development of blockchains"
+  ]
+}

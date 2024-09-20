@@ -1,0 +1,103 @@
+{
+  "NewSections": {
+    "title": "Top Smart Contract Development Company",
+    "decs": "A reputable smart contract development Company, Comfygen provides all-inclusive smart contract development services. Our knowledge spans a variety of smart contract applications, including the creation of NFT smart contracts. Our knowledgeable staff can provide customized solutions to match your needs, whether you need smart contracts for tokenization, decentralized finance (DeFi), or other uses. Count on Comfygen for dependable and effective blockchain-powered smart contract creation services. Through the creation of smart contracts, we are committed to assisting businesses in automating processes, streamlining workflows, and opening up new opportunities. "
+  },
+  "Smart": [
+    {
+      "num": "01",
+      "title": "Discovering Your Business",
+      "decs": "Our team understands your business, your goals, your pain points, and your priorities. We map your existing workflows and future goals using these multiple brainstorming sessions."
+    },
+    {
+      "num": "02",
+      "title": "Designing a solution",
+      "decs": "The design and prototyping of your platform or product begins at this stage after we gather your requirements in a whiteboard session."
+    },
+    {
+      "num": "03",
+      "title": "Development",
+      "decs": "In this stage, the designs you approve are programmed and coded. Alpha, Beta, and Release phases comprise our development lifecycle."
+    },
+    {
+      "num": "04",
+      "title": "Testing and QA",
+      "decs": "During each release, we perform in-depth QA testing to guarantee that the final product, that is ready for market, is error-free."
+    },
+    {
+      "num": "05",
+      "title": "Launch and Maintenance",
+      "decs": "You go live with your product or platform here. As soon as you approve, our developers publish your product in live environments. Besides cloud hosting, we also provide on-premises hosting services."
+    },
+    {
+      "num": "06",
+      "title": "Support and Customer Service",
+      "decs": "To maintain continuous improvement, we optimize products and platforms, implement market strategies, and offer real-time support."
+    }
+  ],
+  "Hire": [
+    {
+      "num": "1",
+      "title": "Hire Smart Contract Developer",
+      "desc": "You can find smart contract developers on freelance platforms, job boards, or by contacting blockchain development firms. When hiring a developer, make sure to have a clear understanding of the project scope, timeline, and budget.",
+      "url": "/contact-us",
+      "btn": "Hire Developer"
+    }
+  ],
+  "myList": [
+    "Services for smart contracts",
+    "Applications that are decentralized",
+    "RAudit of smart contracts",
+    "DAPP for smart contracts",
+    "Hire a dedicated smart conttract developer"
+  ],
+  "Contract": [
+    {
+      "num": "1",
+      "bg": "#F45F391A",
+      "title": "Solidity",
+      "decs": "Ethereum smart contracts are written in Solidity, a high-level programming language. There are similarities between it and Python, JavaScript, and C++. The logic of smart contracts can be stored in Solidity, because it is a contract-oriented programming language. Library & inheritance support is available, as well as statistical typing."
+    },
+    {
+      "num": "2",
+      "bg": "#9A4ECC1A",
+      "title": "C++",
+      "decs": "Developers building on the EOS blockchain benefit most from C++, a general-purpose programming language. The best feature of C++ is that it is capable of scaling resource-intensive applications and running them seamlessly."
+    },
+    {
+      "num": "3",
+      "bg": "#2390FB1A",
+      "title": "Golang",
+      "decs": "Google developed an open-source programming language called Golang that is based on the syntax of the C programming language. In addition, it promotes concurrent programming, allowing multiple processes to run at the same time."
+    },
+    {
+      "num": "4",
+      "bg": "#82AB101A",
+      "title": "JavaScript",
+      "decs": "A fundamental pillar of web design is JavaScript, a dynamic object-oriented programming language. To write smart contracts on the NEO blockchain, developers use JavaScript."
+    }
+  ],
+  "Whychoose": [
+    {
+      "num": "01",
+      "title": "Why Choose us For Smart Contract Development Service?"
+    }
+  ],
+  "Frequently": [
+    {
+      "num": "1",
+      "title": "How does outsourcing for Smart Contract development work?",
+      "desc": "The answer is yes. Full-time, ready-to-hire Blockchain experts are available for hire on Ethereum, Quorum, Corda, Stellar, Hyperledger, EOS, and more."
+    },
+    {
+      "num": "2",
+      "title": "How long does it take for a Smart Contract development project to go live?",
+      "desc": "An average project lasts between a few weeks and a couple of months, depending on its scope. The project is delivered on time and to the highest quality standards using the agile development approach."
+    },
+    {
+      "num": "3",
+      "title": "Can I hire Blockchain Smart Contract developers on a full-time basis?",
+      "desc": "Yes, definitely. The project manager assigned to you by our company will keep you informed about your daily progress reports. The project developers can also be contacted via Skype or email if you would like to know more about the project."
+    }
+  ]
+}

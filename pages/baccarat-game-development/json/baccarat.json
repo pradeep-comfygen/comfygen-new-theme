@@ -1,0 +1,87 @@
+{
+  "NewSections": {
+    "title": "Top Baccarat Game Development",
+    "decs": "We at comfygen, specialize in offering thorough Baccarat game creation services as a leading Baccarat game development Company in India. For the web, mobile devices, and online platforms, our talented team of developers makes fascinating Baccarat gaming apps. We create feature-rich Baccarat games that are adapted to your business needs thanks to our in-depth understand of the game mechanics. We are your reliable partner whether you need a Baccarat game app produced or need Baccarat game development services. We provide expert Baccarat game development services in India and have the resources to meet your project needs."
+  },
+  "ModusOperandi": [
+    {
+      "num": "1",
+      "bg": "#F45F391A",
+      "title": "Business Consultation",
+      "desc": "Convenient and featured-rich dashboard with detailed content and insights."
+    },
+    {
+      "num": "2",
+      "bg": "#F5EDFA",
+      "title": "Wireframe",
+      "desc": "User-friendly interface lets you manage player’s stats and much more."
+    },
+    {
+      "num": "3",
+      "bg": "#E9F4FF",
+      "title": "Game Development",
+      "desc": "Introduce new or bring modification in existing rules easily. Make poker games more immersive."
+    },
+    {
+      "num": "4",
+      "bg": "#F2F6E7",
+      "title": "Whitepaper",
+      "desc": "Bringing developers and other associates for poker game app development."
+    },
+    {
+      "num": "5",
+      "bg": "#FEEFEB",
+      "title": "Game Deployment",
+      "desc": "Copywriter producing whitepaper for your business simultaneously."
+    },
+    {
+      "num": "6",
+      "bg": "#FFF5E5",
+      "title": "Marketing And Maintenance",
+      "desc": "We also help in marketing and improving your baccarat game app."
+    }
+  ],
+  "Modus": {
+    "title": "Online Baccarat Game Development Steps",
+    "desc": "With the most advanced technologies, Comfygen strives to provide innovative and better results. Count on us for dependability, trust, and reliability. Keeping up with the latest trends and anticipating changes, we ensure that it is enforced in a way that empowers you digitally."
+  },
+  "Frequently": [
+    {
+      "num": "1",
+      "title": " What Is Baccarat Game App Development ?",
+      "desc": "Baccarat is a guessing card game played between the player and banker with rules of betting and winning. It is popular throughout South Asia."
+    },
+    {
+      "num": "2",
+      "title": "What Technologies Do You Use To Develop Baccarat Games ?",
+      "desc": "For the backend, we use Java, and for the database, we rely on MySQL and PostgreSQL. The front end, we use technologies like Vue. Flutter, Reactive Native, JS, Angular, etc"
+    },
+    {
+      "num": "3",
+      "title": "Have You Ever Worked In Game Development Before ?",
+      "desc": "We have developed 1000+ games for a number of clients. YES, we do have specialized in baccarat game development as per requirements."
+    },
+    {
+      "num": "4",
+      "title": "How Much Does Baccarat Game App Development Cost ?",
+      "desc": "Connect with our expert to know ballpark estimation. Besides, we provide game development services at pocket-friendly rates."
+    }
+  ],
+  "myList": [
+    "One-on-one communication  ",
+    "Affordable and time-saving gaming solutions",
+    "Powerful and secure coding  ",
+    "Integration is easy",
+    "NDA confidentiality is 100% guaranteed",
+    "Hire a Baccarat developer"
+  ],
+  "Hire": [
+    {
+      "num": "1",
+      "title": "Hire Baccarat Game Developers in India",
+      "desc": " You could hire baccarat game developers in India at the lowest cost from us. We have in-house game developers that are versatile and experienced in a myriad of game development genres. Whether its 2D game design or 3D rich graphic interface development, our developers possess great skills and programming to make it real for you.",
+      "url": "/contact-us",
+      "btn": "Hire Developer"
+    }
+  ]
+}

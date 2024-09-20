@@ -1,0 +1,29 @@
+{
+  "Solution": [
+    {
+      "num": "1",
+      "img": "https://images.unsplash.com/photo-1633265486064-086b219458ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&h=384&q=80",
+      "title": "Blockchain Integration",
+      "decs": "Leveraging blockchain technology ensures a secure, transparent, and tamper-resistant ledger, addressing the issue of trust in network marketing."
+    },
+    {
+      "num": "2",
+      "img": "https://images.unsplash.com/photo-1633265486064-086b219458ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&h=384&q=80",
+      "title": "User-Friendly Interface",
+      "decs": "Bit Learn's interface is designed with the user in mind, providing an intuitive experience that simplifies participation in decentralized MLM."
+    },
+    {
+      "num": "1",
+      "img": "https://images.unsplash.com/photo-1633265486064-086b219458ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&h=384&q=80",
+      "title": "Educational Resources",
+      "decs": "To facilitate user understanding, Bit Learn offers educational resources about blockchain, MLM, and the platform's unique features, fostering a knowledgeable and empowered user base."
+    }
+  ],
+  "WebImg": [
+    {
+      "num": "1",
+      "img": "/portfolio/bitlearn-1.webp",
+      "img1": "/portfolio/bitlean-2.webp"
+    }
+  ]
+}

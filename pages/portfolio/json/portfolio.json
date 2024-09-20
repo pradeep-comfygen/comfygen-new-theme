@@ -1,0 +1,123 @@
+
+{
+  "NativeApp": [
+    {
+      "num": "1",
+      "img": "/img/aria-coin-cryptocurrency.webp",
+      "head": "Aria Coin Cryptocurrency",
+      "para": "Welcome to ARIA Currency, where the future of transactions meets seamless empowerment. Join us as we rewrite the rules of digital currency, making security, accessibility, and efficiency our currency of trust.",
+      "btn": "Initiate Now",
+      "url": "/portfolio/aria-coin-details"
+    },
+    {
+      "num": "2",
+      "img": "/img/decentralised-mlm.webp",
+      "description": "This is a \"sample\" description",
+      "head": "Decentralised MLM",
+      "para": " Join Decentralised MLM Web - Where Blockchain Fuels Fairness, Rewards Fuel Ambition, and Community Fuels Success. Embrace the Future of Network Marketing, Redefined.",
+      "btn": "Initiate Now",
+      "url": "/portfolio/comfygen-token-development-details"
+    },
+    {
+      "num": "3",
+      "img": "/img/footer-fitclub-img.webp",
+      "head": "Fitclub App",
+      "para": " Welcome to FitClub, where your fitness journey meets innovation. Seamlessly sculpt your well-being with our all-in-one mobile app, empowering you to own your health like never before. Unleash the power of convenience and comprehensive access, tailored for your fitness success.",
+      "btn": "Initiate Now",
+      "url": "/portfolio/fitclub-app"
+    },
+    {
+      "num": "4",
+      "img": "/img/footer-image-great-wallet.webp",
+      "head": "Great Wallet Application",
+      "para": "Introducing our Great Wallet Application – your all-in-one solution for seamless and secure financial management. Consolidate cards, track spending, and make quick, hassle-free transactions. With cutting-edge security measures, intuitive design, and insightful analytics, our app transforms the way you handle money. Embrace a cashless lifestyle with confidence and convenience. Your financial future, simplified..",
+      "btn": "Initiate Now",
+      "url": "/portfolio/great-wallet"
+    },
+    {
+      "num": "5",
+      "img": "/img/news-portfolio-footer-img.webp",
+      "head": "News Application",
+      "para": "Discover a new era of news with our cutting-edge News Application. Stay informed with real-time updates, personalized feeds, and multimedia content at your fingertips. Never miss a beat with breaking news notifications. Download now for a seamless, immersive news experience.",
+      "btn": "Initiate Now",
+      "url": "/portfolio/power-of-one-news"
+    },
+    {
+      "num": "6",
+      "img": "/img/hero-book-my-tutor.webp",
+      "head": "Book My Tutor",
+      "para": "Book My Tutor is revolutionizing education in India, connecting students with experienced tutors seamlessly. Our vision is to make quality education accessible to all, transcending location and academic levels. Join us in bridging the gap for personalized learning and transforming the way students and tutors connect. Education, simplified.",
+      "btn": "Initiate Now",
+      "url": "/portfolio/book-my-tutor"
+    },
+    {
+      "num": "7",
+      "img": "/img/e-commerce-portfolio-img.webp",
+      "description": "This is a \"sample\" description",
+      "head": "E Commerce",
+      "para": "Explore a world of possibilities with our E-commerce portfolio. From trendy fashion to cutting-edge electronics, find curated products that redefine convenience. Our user-friendly platform ensures a seamless shopping experience, backed by secure payment options. Elevate your lifestyle effortlessly – shop with us today!",
+      "btn": "Initiate Now",
+      "url": "/portfolio/e-commerce"
+    },
+  
+    {
+      "num": "8",
+      "img": "/img/hero-bg-m7-coin.webp",
+      "head": "M7 Coin",
+      "para": "M7Coin Web Wallet: Redefining crypto management. Seamlessly store, send, and receive M7Coins with ease. Your user-friendly gateway to the dynamic world of digital assets.",
+      "btn": "Initiate Now",
+      "url": "/portfolio/m7-coin"
+    }
+    
+  ],
+  "NativeApp2222": [
+    {
+      "num": "1",
+      "img": "/img/aria-coin-cryptocurrency.webp",
+      "head": "Aria Coin Cryptocurrency",
+      "para": "Welcome to ARIA Currency, where the future of transactions meets seamless empowerment. Join us as we rewrite the rules of digital currency, making security, accessibility, and efficiency our currency of trust.",
+      "btn": "Initiate Now",
+      "url": "/portfolio/aria-coin-details"
+    },
+    {
+      "num": "2",
+      "img": "/img/token-development.webp",
+      "head": "Bitlearn Web",
+      "para": " Join Bit Learn Web - Where Blockchain Fuels Fairness, Rewards Fuel Ambition, and Community Fuels Success. Embrace the Future of Network Marketing, Redefined.",
+      "btn": "Initiate Now",
+      "url": "/portfolio/comfygen-token-development-details"
+    },
+    {
+      "num": "3",
+      "img": "/img/comfynews-application.webp",
+      "head": " Comfynews Web",
+      "para": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore quasi quia nostrum quibusdam dolorem? Veritatis totam quo quibusdam natus rem quam labore nulla rerum reprehenderit, quia libero unde molestiae id.",
+      "btn": "Initiate Now",
+      "url": "/portfolio/comfynews-details"
+    },
+    {
+      "num": "4",
+      "img": "/img/comfygen-mlm-software.webp",
+      "head": "Comfy MLM ",
+      "para": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore quasi quia nostrum quibusdam dolorem? Veritatis totam quo quibusdam natus rem quam labore nulla rerum reprehenderit, quia libero unde molestiae id.",
+      "btn": "Initiate Now",
+      "url": "/portfolio/comfygen-mlm-software-details"
+    },
+    {
+      "num": "5",
+      "img": "/img/cricket-fast-line-application.webp",
+      "head": "Cricket Fast Line Application",
+      "para": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore quasi quia nostrum quibusdam dolorem? Veritatis totam quo quibusdam natus rem quam labore nulla rerum reprehenderit, quia libero unde molestiae id.",
+      "btn": "Initiate Now",
+      "url": "/portfolio/cricket-fast-line-application"
+    },
+    {
+      "num": "6",
+      "img": "/img/zappy-wallet-application.webp",
+      "head": "Zappy Wallet App",
+      "para": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore quasi quia nostrum quibusdam dolorem? Veritatis totam quo quibusdam natus rem quam labore nulla rerum reprehenderit, quia libero unde molestiae id.",
+      "btn": "Initiate Now",
+      "url": "/portfolio/zappy-wallet-application-details"
+    }
+  ]
+}

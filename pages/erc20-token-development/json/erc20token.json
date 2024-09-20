@@ -1,0 +1,159 @@
+{
+  "NewSections": {
+    "title": "Top ERC-20 Token Development Services",
+    "decs": "Professional ERC-20 token development services are available from Comfygen, who also offers all-inclusive solutions for developing and deploying ERC-20 tokens. We are a reputable ERC-20 token development company that focuses on creating safe, effective, and scalable ERC-20 tokens. From initial concept and smart contract creation through token release and integration, our services cover the full development process. You may rely on us for high-quality ERC-20 tokens that satisfy your particular needs. Our skilled team can work with you to create an ERC-20 token that is specifically tailored to your needs in order to help you realize your vision."
+  },
+  "Whychoose": [
+    {
+      "num": "01",
+      "title": "Why Choose Us As Your ERC 20 Token Development Company In India?",
+      "decs": "We are the best Ethereum token development company specializing in developing versatile types of tokens on various blockchain networks. We know about Ethereum token development and provide you with a leap of exceptional token design and development services with following benefits."
+    }
+  ],
+  "ModusOperandi": [
+    {
+      "num": "1",
+      "bg": "#FEEFEB",
+      "title": "Business Consultation",
+      "number": "01",
+      "desc": "Learning the ins and outs of your idea."
+    },
+    {
+      "num": "2",
+      "bg": "#F5EDFA",
+      "title": "Wireframe",
+      "number": "02",
+      "desc": "Preparing a blueprint with strong immersion and skills."
+    },
+    {
+      "num": "3",
+      "bg": "#E9F4FF",
+      "title": "Token Development",
+      "number": "03",
+      "desc": "Bringing developers and other associates for ETH token development."
+    },
+    {
+      "num": "4",
+      "bg": "#F2F6E7",
+      "title": "Whitepaper",
+      "number": "04",
+      "desc": "Copywriter producing whitepaper for your business simultaneously."
+    },
+    {
+      "num": "5",
+      "bg": "#FEEFEB",
+      "title": "Token Launch",
+      "number": "05",
+      "desc": "After testing, we finally launch your Ethereum token development."
+    },
+    {
+      "num": "6",
+      "bg": "#FFF5E5",
+      "title": "ICO Launch",
+      "number": "06",
+      "desc": "We will also develop a flexible ICO platform for deployment and more."
+    }
+  ],
+  "Modus": {
+    "title": "Steps To Launch YourOwn ERC20 Token",
+    "desc": "To maximize the use of token exchanges for participants interested in exchanging tokenized assets, a sequence of sequential steps must be followed during the token development process. Make sure you are involved in all stages of the development process."
+  },
+  "MLM": [
+    {
+      "num": "1",
+      "img": "/img/erc20-token-development.svg",
+      "title": "ERC20 Token Development",
+      "decs": "ERC-20 is the specialized norm for fungible tokens made utilizing the Ethereum blockchain."
+    },
+    {
+      "num": "2",
+      "img": "/img/erc223-token-development.svg",
+      "title": "ERC223 Token Development",
+      "decs": "Powered by smart contracts that enable users to securely transfer tokens to a digital wallet."
+    },
+    {
+      "num": "3",
+      "img": "/img/erc721-token-development.png",
+      "title": "ERC721 Token Development",
+      "decs": "Referred as cryptographic assets on a blockchain that has a unique code and metadata."
+    },
+    {
+      "num": "4",
+      "img": "/img/erc777-token-development.svg",
+      "title": "ERC777 Token Development",
+      "decs": "A fully compatible fungible token pre-existing decentralized exchanges. "
+    },
+    {
+      "num": "5",
+      "img": "/img/erc998-token-developmen.svg",
+      "title": "ERC998 Token Development",
+      "decs": "It is a special kind of token that can own a unique set of digital assets."
+    },
+    {
+      "num": "6",
+      "img": "/img/erc1155-token-development.svg",
+      "title": "ERC1155 Token Development",
+      "decs": "Highly novel tokens aim to create a fungibility-agnostic and gas-efficient token contract. "
+    }
+  ],
+  "High": [
+    {
+      "num": "1",
+      "number": "01",
+      "title": "Smart Contracts",
+      "decs": "Creating and issuing smart contracts on the Ethereum blockchain."
+    },
+    {
+      "num": "2",
+      "number": "02",
+      "title": "Custom ERC20 token",
+      "decs": "Create your own ERC20 token with name, symbol, and initial apply"
+    },
+    {
+      "num": "3",
+      "number": "03",
+      "title": "Absolute Ownership",
+      "decs": "Our developed ERC 20 token solution is absolutely ownership transferable."
+    },
+    {
+      "num": "4",
+      "number": "04",
+      "title": "No PL Skills",
+      "decs": "No requirement of programming skills in ERC20 token development."
+    },
+    {
+      "num": "5",
+      "number": "05",
+      "title": "Fungibility",
+      "decs": "Our Ethereum token development can be used for a wide range of business concerns."
+    },
+    {
+      "num": "6",
+      "number": "06",
+      "title": "Source Code",
+      "decs": "Verified smart contract source code flexible to your unique needs."
+    }
+  ],
+  "Frequently": [
+    {
+      "num": "1",
+      "title": "Why Is ERC20 Token Important In ICO Development?",
+      "desc": "The ERC20 popularly defines a common listing of rules and features that an Ethereum token has to enforce earlier than performing an Initial Coin Offering (ICO)."
+    },
+    {
+      "num": "2",
+      "title": "What Are Some Most Popular ERC20 Tokens Lists?",
+      "desc": "EOS (EOS) TRON (TRX) veChian (VET) ICON (ICX) IOStoken (IOST) Augur (REP) OmiseGO (OMG) Zilliqa (ZIL) Aeternity (AE) Wrapped Bitcoin (WBTC) are name of just a few."
+    },
+    {
+      "num": "3",
+      "title": "How To Create Your Own ERC20 Token?",
+      "desc": "Creating your own ERC20 based on your business requirement is simple and innovative. Consider contacting our ERC20 developers for a secured and primitive token development solution."
+    },
+    {
+      "num": "4",
+      "title": "How Much Does ERC20 Token Development Cost?",
+      "desc": "Connect with our expert to know ballpark estimation. Generally ethereum token development cost is uncertain to predict because of uncontrolled factors and number of actions involved."
+    }
+  ]
+}

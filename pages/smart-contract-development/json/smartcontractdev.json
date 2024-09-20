@@ -1,0 +1,192 @@
+{
+  "Hire": [
+    {
+      "num": "1",
+      "title": "Hire Our Tech-Centric Smart Contract Developers to Scale Your Business Operations!",
+      "desc": "All the smart contract developers who work at Comfygen have received immense training and expertise to handle the requests from both start-ups as well as established businesses. They have dedicated strategies that they implement with respect to different use case scenarios. Every developer working with us is quite expert in using different tools and technologies to help your business stay updated with the market trends. In case there is a need for any kind of advancement in the long run, these developers would help bring in more result-centric solutions to help you achieve that.",
+      "url": "/contact-us",
+      "btn": "Hire Developer"
+    }
+  ],
+  "myList": [
+    "Outstanding team of developers, testers, and project managers.",
+    "Every individual working at Comfygen is a certified professional.",
+    "Actively available for support needs raised by the clients. ",
+    "Makes use of the latest technology solutions to tailor your business-specific smart contract development."
+  ],
+  "Whychoose": [
+    {
+      "num": "01",
+      "title": "Why Choose Comfygen for Smart Contract Development Services?",
+      "decs": "Comfygen, being the best smart contract development company, is confident enough to offer you a highly proficient smart contract development service. But, to help you feel more convinced about hiring our services, here are some reasons why you should consider us as a priority for your respective projects:"
+    }
+  ],
+  "SmartFeatures": [
+    {
+      "num": "1",
+      "img": "/img/disintermediation.webp",
+      "title": "Disintermediation",
+      "decs": "When you have embarked on the path of developing smart contracts with us, we assure you that there will be no intermediaries being part of the agreement exchanges between you and the users. Our job is to promote automation for your specific business tasks, and the smart contracts we integrate would keep out all the third-party involvements."
+    },
+    {
+      "num": "2",
+      "img": "/img/real-time-execution.webp",
+      "title": "Real-Time Execution",
+      "decs": "Our team of consultants will help you understand the efficacy of real-time execution using smart contracts. It means that smart contracts take action simultaneously across all the computers that are taking part in specific operations. Based on your requests, we will set specific criteria within the smart contracts. Once that’s filled, the following pre-set action will take place instantly."
+    },
+    {
+      "num": "3",
+      "img": "/img/transparency.webp",
+      "title": "Transparency",
+      "decs": "At Comfygen, we make sure that the information added to your smart contract is made visible to every participant who exists within the blockchain network. Thus, it enables an efficient environment of utmost trust. Once we execute the smart contracts for your business operations, be assured they cannot be altered due to the astounding transparency."
+    },
+    {
+      "num": "4",
+      "img": "/img/secuirty.webp",
+      "title": "Security",
+      "decs": "As we are leveraging the potential of distributed ledger technology for making smart contracts, it ensures that the outcomes are immune to all forms of alterations and are impregnable as well. Thus, the security aspects of your smart contracts developed by our team of experts will be top-notch without leaving any vulnerable ends."
+    },
+    {
+      "num": "5",
+      "img": "/img/financial-savings.webp",
+      "title": "Financial Savings",
+      "decs": "With the ideology of implementing automated operations into your business functions through our developed smart contracts, you can be free from hiring a human workforce to handle redundant tasks. Thus, it would lead you to alleviate the risks associated with human interference and will save the cost of hiring unnecessary staff members."
+    },
+    {
+      "num": "6",
+      "img": "/img/accuracy.webp",
+      "title": "Accuracy",
+      "decs": "With the introduction of smart contracts, our experts will help you navigate the record-keeping of your data, its storage, and easy retrieval with the use of automated techniques. Thus, it will help you be free from all human errors that might result in the loss of critical business data."
+    },
+    {
+      "num": "7",
+      "img": "/img/data-security-assurance.webp",
+      "title": "Trustworthiness",
+      "decs": "Upon utilising the smart contracts, you are allowing your business to develop immense trust among the customers and partners. Our smart contract development services ensure the creation of a highly secure and transparent transaction environment for your business to help all stakeholders attain peace of mind while conducting various business operations or transactions."
+    },
+    {
+      "num": "8",
+      "img": "/img/easy-customisation.webp",
+      "title": "Easy Customisation",
+      "decs": "At Comfygen, we take pride in offering an astounding scope of customisation to our clients with respect to developing smart contracts. We make sure to assess the specific needs of your business alongside deciding on specific rules that you want to adopt for executing specific business transactions. In short, we shall help you include all business-specific conditions or clauses in your smart contract development project. "
+    }
+  ],
+  "myList3": [
+    "See no fraudulent activities being conducted across your business operations, as smart contracts are highly secured under the blockchain network. ",
+    "The transactions being executed within the business operations are faster and more secure.",
+    "Ability to implement automation within your business activities to streamline your workflow.",
+    "Gain access to a reliable and empowered network alongside a revenue-generating module. ",
+    "Every data you store over the smart contracts is secured and cannot be altered by any means."
+  ],
+  "Development": [
+    {
+      "num": "01",
+      "img": "/img/smart-contract-consultation-services.webp",
+      "title": "Smart Contract Consultation Services"
+    },
+    {
+      "num": "02",
+      "img": "/img/web-plateform.webp",
+      "title": "Design & Development Services"
+    },
+    {
+      "num": "03",
+      "img": "/img/smart-contract-auditing-services.webp",
+      "title": "Smart Contract Auditing Services"
+    },
+    {
+      "num": "04",
+      "img": "/img/smart-contract-optimisation-services.webp",
+      "title": "Smart Contract Optimisation Services"
+    },
+    {
+      "num": "05",
+      "img": "/img/dapp-implementation.webp",
+      "title": "dApp Implementation"
+    },
+    {
+      "num": "06",
+      "img": "/img/dexs-implementation.webp",
+      "title": "DEXs Implementation"
+    },
+    {
+      "num": "07",
+      "img": "/img/degital-wallet-development-service.webp",
+      "title": "Digital Wallet Development Services"
+    },
+    {
+      "num": "08",
+      "img": "/img/nft-smart-contracts-development.webp",
+      "title": "NFT Smart Contracts Development"
+    },
+    {
+      "num": "09",
+      "img": "/images/icons/token-development.webp",
+      "title": "Token Development"
+    }
+  ],
+  "Bestchoice": [
+    {
+      "num": "01",
+      "bg": "#F45F391A",
+      "title": "Quality Services",
+      "decs": "Quality is a priority for Comfygen, and we have been fulfilling this pledge since the start. Our smart contract developers are experienced in their respective blockchain domains to help deliver a high-performance output within the said deadline. "
+    },
+    {
+      "num": "02",
+      "bg": "#ECF2E6",
+      "title": "Timely Deliveries",
+      "decs": "The next big thing that makes us better than most of the developers out there in the market is timely delivery. We proudly boast our proficiency in delivering smart contracts to our clients on time without compromising on quality in any aspect. "
+    },
+    {
+      "num": "03",
+      "bg": "#2390FB1A",
+      "title": "Proven Track Record",
+      "decs": "We have been working tirelessly for a long time now and have attended to the diverse requests of clients without fail. Our smart contract development services have been praised and accepted by several big names across varying industries, including real estate, healthcare, finance, insurance, etc."
+    },
+    {
+      "num": "04",
+      "bg": "#9A4ECC1A",
+      "title": "Transparent Communications",
+      "decs": "We interact with our clients with utmost transparency, without keeping them under the shadow. May it be pricing or the process of development, we share almost everything before signing the deal for developing their smart contract."
+    },
+    {
+      "num": "05",
+      "bg": "#E1F4EC",
+      "title": "Cutting-Edge Technology",
+      "decs": "Our team leads the use of high-end digital transformation initiatives with the use of forward-thinking solutions, which help businesses automate various core operations. This shall help you develop better work models and scale your customer experiences."
+    }
+  ],
+  "SmartProcess": [
+    {
+      "num": "1",
+      "title": "Collecting the Requirements",
+      "decs": "The first thing our experts are trained to do upon receiving a smart contract development firm request is gather all possible requirements about the project and the client’s business. In this step, we will be planning out the business logic and will then be curating a perfect smart contract development roadmap to walk on. This would help us deliver the best digital contract development company to meet your business purpose."
+    },
+    {
+      "num": "2",
+      "title": "Designing the Architecture",
+      "decs": "In our method of execution, this is the most crucial step where our smart contract developers prepare the architecture of your smart contract development company. Here, we create a blueprint of how your smart contract development would be. In the smart contract development process, we take note of the security & compliance regulations and design the overall architecture, which helps us outline the overall smart contract development approach."
+    },
+    {
+      "num": "3",
+      "title": "Smart Contract Development Initiative",
+      "decs": "At Comfygen, we have the best smart contract development coders in the smart contract development industry, and they shall take charge of programming the smart contracts based on your approval of the prior designs and architecture that our team worked on. We have divided our development phase into three stages, which is referred to as the Alpha, Beta, and Release stage."
+    },
+    {
+      "num": "4",
+      "title": "Testing Approach",
+      "decs": "Following that, we move ahead with our validation process for carrying out the QA testing cycle. For every release of the smart contract development organization, our team will run data-derived validations and test its performance proficiency. This is to ensure that the smart contract you develop is ready for deployment."
+    },
+    {
+      "num": "5",
+      "title": "Deployment of the Smart Contract",
+      "decs": "The final smart contract development services will then be provisioned and deployed into production, following your consent. Following that, we shall also provide consistent monitoring efforts for your smart contract development utilisation and recommend maintenance or upgrade necessities when needed."
+    },
+    {
+      "num": "6",
+      "title": "24/7 Customer Support",
+      "decs": "Our smart contract development team is always available and ready to address almost all queries or questions that you have related to your smart contract development company project. In case you are stuck at any point while using your dedicated decentralised apps embedded with smart contracts, get in touch with us right away!"
+    }
+  ]
+}

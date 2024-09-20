@@ -1,0 +1,53 @@
+{
+  "LatestTechno": [
+    {
+      "num": "01",
+      "title": "PoA Network Builder",
+      "decs": "We provide you with a sophisticated Network Builder, which is similar to that of the Testnets of the public blockchain networks. Integrating the same with PoA blockchain development, you will be able to build custom testing networks. "
+    },
+    {
+      "num": "02",
+      "title": "Network Bootstrapper",
+      "decs": "Network Bootstrapper is a proactive tool that helps you build test networks, especially for testing or development purposes. This will help provide all the initial information on configuration to all the newly joined nodes for them to easily be part of the overlay network. "
+    },
+    {
+      "num": "03",
+      "title": "Demo Bench",
+      "decs": "Our team will assist the clients in the installation process and the usage of the Demo Bench desktop app, which will help them create or launch all the local nodes, especially for training or demonstration purposes.  "
+    },
+    {
+      "num": "04",
+      "title": "Node Explorer ",
+      "decs": "Node Explorer brings you a visual interface for inspecting the nodes over the network and then performing various crucial tasks. This would help you view the network with respect to being an individual node owner. "
+    }
+  ],
+  "WhyChoose": [
+    {
+      "num": "01",
+      "title": "A Professional Team of Blockchain Experts",
+      "decs": "At Comfygen, we are a team of PoA blockchain development services experts who have been leveraging the technology to the best of its potential for a long time. Following that, we have been helping businesses from all over the world to thrive for several years.  "
+    },
+    {
+      "num": "02",
+      "title": "Cost-Effective Services & Timely Delivery",
+      "decs": "Every business tends to save a lot of time and money in order to support the substantial growth of it. Therefore, we bring in a dedicated project management team to look after your PoA blockchain development project to ensure only the right amount of money is spent and the least time is consumed in delivering your solution. "
+    },
+    {
+      "num": "03",
+      "title": "Astounding Transparency",
+      "decs": "Our motto at Comfygen is to be immensely transparent with the various approaches we make in order to deliver your PoA blockchain development. We keep our clients updated with every step being taken for their specific projects and give them regular insights into the progress. "
+    },
+    {
+      "num": "04",
+      "title": "Code Reusability and High Security",
+      "decs": "Every enterprise solution that we develop is approached with a sense of security and scalability. We have the proficiency to reuse the existing codes to develop bug-free applications with the use of PoA blockchain development services. With this, we ensure a faster delivery of the end product. "
+    }
+  ],
+  "Major": [
+    {
+      "num": "01",
+      "title": "Have a Closer Look At The Features Of PoA Blockchain ",
+      "decs": ""
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "Solution": [
+    {
+      "num": "1",
+      "img": "/img/healthcare.svg",
+      "title": "Healthcare Industry"
+    },
+    {
+      "num": "2",
+      "url": "/finance-app-development",
+      "img": "/img/blockchain-mobile-app-development.webp",
+      "title": "Finance Industry"
+    },
+    {
+      "num": "3",
+      "img": "/img/entertainment.svg",
+      "title": "Etertainment Industry"
+    },
+    {
+      "num": "4",
+      "img": "/img/it-industry.webp",
+      "title": "IT Industry "
+    },
+    {
+      "num": "5",
+      "img": "/img/traveland-hospitality.svg",
+      "title": " Tourism and Travel Industry "
+    },
+    {
+      "num": "6",
+      "url": "/e-commerce-app-development",
+      "img": "/img/retail-and-ecommerce.webp",
+      "title": "Fashion and ECommerce Industry"
+    },
+    {
+      "num": "7",
+      "url": "/e-commerce-app-development",
+      "img": "/img/eduction.svg",
+      "title": "Education Industry"
+    },
+    {
+      "num": "8",
+      "img": "/img/hospitality-and-food-service-industry.webp",
+      "title": "Hospitality and Food Service Industry"
+    },
+    {
+      "num": "9",
+      "url": "/e-commerce-app-development",
+      "img": "/img/retail-industry.webp",
+      "title": "Retail Industry "
+    },
+    {
+      "num": "10",
+      "img": "/img/logistics-industry.webp",
+      "title": "Logistics Industry"
+    },
+    {
+      "num": "11",
+      "img": "/img/online-shopping-industry.webp",
+      "title": "Online Shopping Industry"
+    },
+    {
+      "num": "12",
+      "img": "/img/telecommunication.webp",
+      "title": "Telecommunication"
+    },
+    {
+      "num": "13",
+      "url": "/game-development-company",
+      "img": "/img/gaming.svg",
+      "title": "Games & Entertainment Industry"
+    }
+  ],
+  "Whychoose": [
+    {
+      "num": "01",
+      "title": "Advantages Of Using Hybrid App",
+      "decs": "With the most advanced technologies, Comfygen strives to provide innovative and better results. Count on us for dependability, trust, and reliability. Keeping up with the latest trends and anticipating changes, we ensure that it is enforced in a way that empowers you digitally."
+    }
+  ],
+  "Bestchoice": [
+    {
+      "num": "01",
+      "bg": "#F45F391A",
+      "title": " Cost-effective development",
+      "decs": "Our hybrid app development services are recognized as being both cost-effective and outstanding. In addition to providing quality solutions at a reasonable price, we are committed to being an authentic hybrid app development service provider in India."
+    },
+    {
+      "num": "02",
+      "bg": "#F7F5FA",
+      "title": "Customer support and communication are our top priorities",
+      "decs": "To understand our customers needs and to support them whenever they need it, we keep in constant contact with them. A phenomenal system of customer service and communication is in place at our hybrid app development company "
+    },
+    {
+      "num": "03",
+      "bg": "#9A4ECC1A",
+      "title": "Code with good security",
+      "decs": "An agreement of confidentiality is required from the clients to secure the source code. As a result, we can run our business confidently and enthusiastically.  "
+    },
+    {
+      "num": "04",
+      "bg": "#6C54DE1A",
+      "title": "Developers with expertise in Hybrid ",
+      "decs": "We have a highly-skilled team of Hybrid application developers. Training sessions are provided periodically to them. To develop the product, the team utilizes the latest tools and platforms."
+    }
+  ],
+  "myList": [
+    " Determine project requirements.",
+    "Look for hybrid app development experience.",
+    "Evaluate technical skills.",
+    "Consider communication skills .",
+    "Check availability and work schedule.",
+    "Look for a good track record of delivering quality hybrid apps."
+  ],
+  "Hire": [
+    {
+      "num": "1",
+      "title": "Hire Hybrid App Developers",
+      "desc": "If you want a quick delivery of your project at a nominal charge, it would be a great idea to hire professional Hybrid Mobile App Developers. They can focus on your project entirely and deliver you faster results.",
+      "url": "/contact-us",
+      "btn": "Hire Developer"
+    }
+  ],
+  "MobileSolution": [
+    {
+      "num": "1",
+      "head": "Industries We Serve",
+      "para": " It doesn’t matter under which niche your project falls, from startups to enterprises we have experience in delivering robust mobile application solutions for a wide range of clients across  multiple industries."
+    }
+  ],
+  "NewSections": {
+    "title": "Top Hybrid Mobile App Development Company In Jaipur",
+    "decs": "Comfygen is a leading Jaipur based hybrid mobile app development company received favourable reviews and testimonials from customers who have benefited from their hybrid mobile app development services, which is a crucial sign of a mobile app development company's success as the best Hybrid app development company in Jaipur. Their commitment to providing cutting-edge hybrid mobile app development solutions, together with their continuous support and maintenance services, further establishes them as a reliable partner for the hybrid app development industry in India. Ultimately, even though Comfygen is regarded as a top option for hybrid app development company in India, it is advisable to carefully compare different companies, taking into account elements like expertise, experience, portfolio, client reviews, and project requirements, to Hire a Mobile app developer that can fit for your unique requirements."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "NewSections": {
+    "title": "Top ReactJS Development Services",
+    "decs": "With its extensive range of React.js development services, Comfygen is regarded as the best ReactJS development company. As a top ReactJS development company, we offer superb solutions that are specifically suited to your requirements. Web application development is one of the many facets of ReactJS development that we are skilled in. We are a reputable ReactJS development company, therefore you may engage our knowledgeable React.js developers from India. "
+  },
+  "Hire": [
+    {
+      "num": "1",
+      "title": "Hire React.JS Developers",
+      "desc": "With our expertise in delivering the most challenging ReactJS Development services, Comfygen is one of the leading ReactJS Development companies in the world. Our company pioneers using ReactJS to build interactive interfaces for web applications. You can quickly deploy your business application by hiring our ReactJS developers. To hire ReactJS developers, we provide cost-effective and dedicated services. Utilizing the most advanced tools and techniques for the on-time delivery of projects, we guarantee to deliver the best performance and innovative solutions. ",
+      "url": "/contact-us",
+      "btn": "Hire Developer"
+    }
+  ],
+  "myList2": [
+    "Progressive web apps",
+    "Apps that run on multiple platforms",
+    "The SPA",
+    "Portals on the web",
+    "The ERP system",
+    "The CRM system"
+  ],
+  "myList1": [
+    "With React's one-way data flow, properties flow down, and actions flow up, you can build well-structured solutions.",
+    "With React's Server Side Rendering, search engines love your web apps.",
+    "To code with React, you only need JSX syntax knowledge and the library itself.",
+    "There are over 1100 contributors to React.js, which is open source.",
+    "An additional library called Redux keeps track of the application state predictably. This makes a code more intuitive and prevents it from being misused."
+  ],
+  "myList": [
+    "A team of developers has been verified and tested.",
+    "In case of challenges, there is the backup of a larger team.",
+    "Reliability and quality of service are guaranteed.",
+    "Clients can receive direct reports from resources.",
+    "In case of an urgent requirement, we have a scalable team."
+  ],
+  "Planning": [
+    {
+      "num": "01",
+      "bg": "#F1F5F9",
+      "title": "Custom React.JS Programming",
+      "decs": "You can count on our React.JS engineers to provide flexible applications based on solid frameworks, holders, serverless arrangements, and AWS."
+    },
+    {
+      "num": "02",
+      "bg": "#F1F5F9",
+      "title": "Software interface Development and Integration.",
+      "decs": "To communicate reliably with different bits of programming, our React.JS Experts develop APIs. Using APIs can be done either inside the application to interact with parts of it or remotely to request assistance.    "
+    },
+    {
+      "num": "03",
+      "bg": "#F1F5F9",
+      "title": "React.JS Plug-Ins Development",
+      "decs": "Due to the many modules available in the community, our group will not have to rehash an issue that has already been resolved. As well as private modules, we can create them, especially for your needs.    "
+    },
+    {
+      "num": "04",
+      "bg": "#F1F5F9",
+      "title": "Maintenance and Support",
+      "decs": "Taking into account stages previously underlying React.JS, our dependable administrations include dependable upkeep and support."
+    },
+    {
+      "num": "05",
+      "bg": "#F1F5F9",
+      "title": "Consultation",
+      "decs": "Give advice and warnings to groups and organizers considering React.JS for improving their backends."
+    }
+  ],
+  "Frequently": [
+    {
+      "num": "1",
+      "title": "Does React JS work on the front end or the back end ?",
+      "desc": "In essence, React JS is a front-end library, which is used to create elements that users can interact with through their browsers."
+    },
+    {
+      "num": "2",
+      "title": "Why should you use React JS ?",
+      "desc": "User interfaces and components can be built with React. Single-page and progressive web apps generally use it for fetching rapidly changing data that needs to be stored"
+    },
+    {
+      "num": "3",
+      "title": "Can React JS handle large applications ?",
+      "desc": "React can be used to develop large applications, but it is mainly used to create small apps like single-page apps and progressive web apps."
+    },
+    {
+      "num": "4",
+      "title": "React JS is a web technology, right? Can React JS be used to build mobile apps ?",
+      "desc": "Web development is the only use of React.js. No mobile apps can be built with it."
+    }
+  ]
+}

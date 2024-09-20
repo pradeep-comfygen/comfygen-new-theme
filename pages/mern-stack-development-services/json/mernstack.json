@@ -1,0 +1,161 @@
+{
+  "NewSections": {
+    "title": "MERN Stack Development Services",
+    "decs": "The MERN stack development business with the highest reputation in the market is Comfygen. We give outstanding MERN stack solutions to our clients and stand out from the competition thanks to our proficiency in MongoDB, Express.js, React, and Node.js. Our position as the top option for MERN stack development projects is cemented by our track record of success and client satisfaction."
+  },
+  "Business": [
+    {
+      "num": "1",
+      "img": "/images/icons/mern-stack-consultation.svg",
+      "title": "MERN Stack Consultation (Free)"
+    },
+    {
+      "num": "2",
+      "img": "/images/icons/customized-end-to-end-solution.svg",
+      "title": "Customized End-to-End Solutions"
+    },
+    {
+      "num": "3",
+      "img": "/images/icons/team-of-expert-mern-stack-developers.svg",
+      "title": "Team of Expert MERN Stack Developers"
+    },
+    {
+      "num": "4",
+      "img": "/images/icons/secure-and-highly-flexible-services.svg",
+      "title": "Secure & Highly Flexible Services"
+    },
+    {
+      "num": "5",
+      "img": "/images/icons/cost-effective.svg",
+      "title": "Cost Effective"
+    },
+    {
+      "num": "6",
+      "img": "/images/icons/no-context-switching.svg",
+      "title": "No context switching"
+    },
+    {
+      "num": "7",
+      "img": "/images/icons/powerful-framework.svg",
+      "title": "Powerful Framework"
+    },
+    {
+      "num": "8",
+      "img": "/images/icons/highly-scalable.svg",
+      "title": "Highly Scalable"
+    },
+    {
+      "num": "9",
+      "img": "/images/icons/modelview-controller-architecture.svg",
+      "title": "Model View Controller architecture"
+    },
+    {
+      "num": "10",
+      "img": "/images/icons/extremely-secure.svg",
+      "title": "Extremely Secure"
+    },
+    {
+      "num": "11",
+      "img": "/images/icons/better-performance.svg",
+      "title": "Better Performance"
+    },
+    {
+      "num": "12",
+      "img": "/images/icons/budget-friendly.svg",
+      "title": "Budget friendly"
+    }
+  ],
+  "ChooseUs": [
+    {
+      "num": "01",
+      "bg": "#F45F391A",
+      "title": "Hiring models that are flexible"
+    },
+    {
+      "num": "02",
+      "bg": "#9A4ECC1A",
+      "title": "Delivering projects on time"
+    },
+    {
+      "num": "03",
+      "bg": "#2390FB1A",
+      "title": "Advantages of time zones"
+    },
+    {
+      "num": "04",
+      "bg": "#82AB101A",
+      "title": "A dedicated project manager"
+    },
+    {
+      "num": "05",
+      "bg": "#F45F391A",
+      "title": "An agile development approach"
+    },
+    {
+      "num": "06",
+      "bg": "#FFA0001A",
+      "title": "Communication channels that are open"
+    },
+    {
+      "num": "07",
+      "bg": "#E9DCEF",
+      "title": "We guarantee 100% customer satisfaction"
+    },
+    {
+      "num": "08",
+      "bg": "#F45F391A",
+      "title": "Deploying quickly"
+    }
+  ],
+  "Hire": [
+    {
+      "num": "1",
+      "title": "Hire MERN Stack developers",
+      "desc": "A MERN Stack expert has extensive knowledge of Mongo DB, Express JS, React JS, and Node JS, all of which are open-source components of MERN.Our MERN stack programmers use ReactJS to make the application's UI highly dynamic and interactive. Create user-friendly and scalable applications that .Our MERN Stack Developers can provide you with technical skills-",
+      "url": "/contact-us",
+      "btn": "Hire Developer"
+    }
+  ],
+  "myList": [
+    "Ensure alignment with your business needs",
+    "Agile methods are used to build them",
+    "Process automation for workflows  ",
+    "Interactive and strong performance skills",
+    "Enhances your performance efficiency  ",
+    "Profit margins and ROI are increased",
+    "As a database, MongoDB is used",
+    "Framework based on ExpressJS",
+    "As a front-end, ReactJS is used",
+    "Server-side NodeJS"
+  ],
+  "myList1": [
+    "Using MERN Stack on a single platform allows you to leverage multiple technologies. This is a combination of four components. For the better built, you will have access to all those technologies.",
+    "As technology increases, single-page app development is becoming more popular around the world. MERN Stack can also be used to develop single-page apps.",
+    "As compared to the Mean stack development, using React is preferable. As a result, the demand for MERN stack development is increasing.",
+    "With MERN, you can create high-quality web applications in a limited amount of time."
+  ],
+  "myList2": [
+    "Over 6+ years of experience hiring MERN Stack Developers",
+    "Using MongoDB, ExpressJS, ReactJS & NodeJS, build a web app using MERN open-source software",
+    "On NDAs, we guarantee 100% confidentiality  ",
+    "Project manager dedicated to the project",
+    "From concept to launch, we provide complete guidance."
+  ],
+  "Frequently": [
+    {
+      "num": "1",
+      "title": "Are MERN stacks going to replace Mean stacks ?",
+      "desc": "The MERN stack and the Mean stack are best developed at their own locations. However, the MERN stack runs on React, which is more preferable in the future than Angular."
+    },
+    {
+      "num": "2",
+      "title": "What is MERN Stack development ?",
+      "desc": "As an alternative to full stack development, MERN stack development can be considered."
+    },
+    {
+      "num": "3",
+      "title": "How Much Does Poker Game App Development Cost ?",
+      "desc": "Connect with our expert to know ballpark estimation. Besides, we provide game development services at pocket-friendly rates."
+    }
+  ]
+}

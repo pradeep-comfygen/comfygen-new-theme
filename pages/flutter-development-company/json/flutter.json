@@ -1,0 +1,40 @@
+{
+  "NewSections": {
+    "title": "Jaipur Best Flutter App Development Company",
+    "decs": "With our Flutter mobile app development services, you can create a multi-platform presence. From discovering the best product-market fit to smoothly deploying your application across multiple platforms, our Flutter developers can help you design, develop, test, and launch full-featured Flutter applications.   "
+  },
+  "Frequently": [
+    {
+      "num": "1",
+      "title": "Can you convert my existing app into Flutter?",
+      "desc": "Installing Flutter as a library or module is the first step. The user interface of the application is reflected in that module. Modules can be created using the Flutter create-t module command. The new project will have a somewhat different structure. The main code can be separated from the Flutter code by creating a module in this way. Third-party modules are required for this module."
+    },
+    {
+      "num": "2",
+      "title": "Can I use Flutter inside of my existing native app?",
+      "desc": "Flutter isn't always practical for rewriting your entire application at once. You can integrate Flutter piecemeal into your existing application as a library or module in those cases. After importing the module, you can use Flutter to render a part of the UI in your Android or iOS app (currently supported platforms)."
+    },
+    {
+      "num": "3",
+      "title": "Can we use flutter for Web development?",
+      "desc": "Flutter is a great tool for developing mobile and web applications. Using standards-based online technologies, such as HTML, CSS, and JavaScript, Flutter is extremely compatible with today's web content. Flutter code can be compiled into a client experience that can be deployed to any web server that supports Flutter web."
+    }
+  ],
+  "Hire": [
+    {
+      "num": "1",
+      "title": "Benefits of hire Flutter developer",
+      "desc": "The Flutter iOS app development services we provide are built on the framework's best features.With the SDK, we provide a native end-user experience, expressiveness, flexible UI, and lightning-fast load speed of 60ms Make your application the symbol of excellence across all platforms with FPS. ",
+      "url": "/contact-us",
+      "btn": "Hire Developer"
+    }
+  ],
+  "myList": [
+    "Development at a rapid pace  ",
+    "Flexible and expressive user interface",
+    "Native Performance ",
+    "Integration is easy",
+    "Friendly to scalability",
+    "Codebase with one version"
+  ]
+}

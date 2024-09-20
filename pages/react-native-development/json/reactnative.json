@@ -1,0 +1,39 @@
+{
+  "NewSections": {
+    "title": "React Native Development ",
+    "decs": "The greatest React Native app development firm, Comfygen, stands out for providing top-notch services. When it comes to providing seamless solutions for your mobile app demands, our skilled team excels. We offer thorough consulting and migration services along with React Native app development. You can engage our skilled React Native app developers to ensure the success of your projects."
+  },
+  "Frequently": [
+    {
+      "num": "01",
+      "title": "1.HOW TO PREPARE FOR AN ESTIMATE?",
+      "desc": "An idea is the beginning of everything. It's time to take action once you have it! Defining your idea is the first step to getting an estimate. Try to be as precise as possible when describing your vision. Create a short statement describing your hopes and ideas later. The next step is specs. You can leave the details to the specialists, if you don't want to get too technical. The budget and deadline should also be considered. Make sure you understand the scope and goals of the project."
+    },
+    {
+      "num": "02",
+      "title": "2. How does my project s cost vary?",
+      "desc": "A software development project's total cost is determined by the number of people who have worked on it over a given period and their hourly rates. Front-end, back-end, and full-stack software developers, UX/UI managers, project managers, and testers can all be part of the software development team. A variety of specialists may be required for your project, depending on its scope. You decide who you want to hire."
+    },
+    {
+      "num": "03",
+      "title": "3. WHAT CAN I DO TO SECURE MY IDEA?",
+      "desc": "To ensure the safety of your project, it's a good idea to sign a Non-Disclosure Agreement. It's important to specify what information is confidential and assess its value when creating an NDA. It is a standard procedure to sign an NDA even when estimating a simple idea and can minimise the risk of your original idea being stolen."
+    }
+  ],
+  "Hire": [
+    {
+      "num": "1",
+      "title": "Hire React Native App Developer India",
+      "desc": "With your thoughtfulness, we'll create the best native React Native based mobile apps using the React Native language for reasonable charges.",
+      "url": "/contact-us",
+      "btn": "Hire Developer"
+    }
+  ],
+  "myList": [
+    "Experienced React Native developers are available for hire",
+    "Dynamic mobile apps can be built with the help of well-versed resources",
+    "NDA confidentiality is 100% guaranteed",
+    "Hire a dedicated React Native developer",
+    "The management of glazing ideas, development, and delivery"
+  ]
+}

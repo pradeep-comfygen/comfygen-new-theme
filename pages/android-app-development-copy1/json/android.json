@@ -1,0 +1,72 @@
+{
+  "Whychoose": [
+    {
+      "num": "01",
+      "title": "Advantages Of Using Android App",
+      "decs": ""
+    }
+  ],
+  "Bestchoice": [
+    {
+      "num": "01",
+      "bg": "#F45F391A",
+      "title": "Cost-effective development",
+      "decs": "Our services are recognized as being both cost-effective and outstanding. In addition to providing quality solutions at a reasonable price, we are committed to being an authentic service provider."
+    },
+    {
+      "num": "02",
+      "bg": "#F7F5FA",
+      "title": "Customer support and communication are our top priorities",
+      "decs": "To understand our customers' needs and to support them whenever they need it, we keep in constant contact with them. A phenomenal system of customer service and communication is in place at our company ."
+    },
+    {
+      "num": "03",
+      "bg": "#9A4ECC1A",
+      "title": "Code with good security",
+      "decs": "An agreement of confidentiality is required from the clients to secure the source code. As a result, we can run our business confidently and enthusiastically."
+    },
+    {
+      "num": "04",
+      "bg": "#6C54DE1A",
+      "title": "Developers with expertise in Android",
+      "decs": "We have a highly-skilled team of Android application developers. Training sessions are provided periodically to them. To develop the product, the team utilizes the latest tools and platforms."
+    }
+  ],
+  "Hire": [
+    {
+      "num": "1",
+      "title": "Hire Android Application Developers",
+      "desc": "If you want a quick delivery of your project at a nominal charge, it would be a great idea to hire professional Android Developers. They can focus on your project entirely and deliver you faster results.",
+      "url": "/contact-us",
+      "btn": "Hire Developer"
+    }
+  ],
+  "myList": [
+    "Dynamic mobile apps can be built with the help of well-versed resources",
+    "Ability to Meet Deadlines",
+    "The management of glazing ideas, development, and delivery",
+    "NDA confidentiality is 100% guaranteed  ",
+    "Hire a dedicated Android app developer"
+  ],
+  "NewSections": {
+    "title": "Top Android app development",
+    "decs": "The greatest Android app development company as well as a top supplier of services is ComfyGen. In addition to UI/UX design, app testing, quality assurance, app maintenance, and support, they also provide top-notch Android game development services. Clients can hire android app developer team of highly qualified individuals to design excellent Android apps. The Android app development cost  offered by ComfyGen is affordable solutions without sacrificing quality, ensuring reasonable pricing for their services. You can count on a smooth development process and a finished product that exceeds your expectations when you pick ComfyGen. "
+  },
+  "Frequently": [
+    {
+      "num": "01",
+      "title": "How Do I Know You Understand My Demands And Deliver An App I Want?",
+      "desc": "Providing customers with convenient solutions on the platforms they prefer is imperative in today's era. Start-ups and enterprises have an excellent opportunity to capitalize on Android's rapid growth. With a Hybrid app, you can gain a much higher return on investment, gain a competitive edge, and build customer loyalty quickly. We provide Hybrid studio app development services at The Comfygen."
+    },
+    {
+      "num": "02",
+      "title": "'Why Do I Need Android App Development Services?'",
+      "desc": "Providing customers with convenient solutions on the platforms they prefer is imperative in today's era. Start-ups and enterprises have an excellent opportunity to capitalize on Android's rapid growth. With an Android app, you can gain a much higher return on investment, gain a competitive edge, and build customer loyalty quickly. We provide Android studio app development services at The Comfygen."
+    },
+    {
+      "num": "03",
+      "title": "Will I be getting regular updates from you?",
+      "desc": "Yes, definitely. The project manager assigned to you by our company will keep you informed about your daily progress reports. The project developers can also be contacted via Skype or email if you would like to know more about the project."
+    }
+  ]
+}

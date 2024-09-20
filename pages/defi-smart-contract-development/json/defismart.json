@@ -1,0 +1,110 @@
+{
+  "NewSections": {
+    "title": "Best DeFi Smart Contract Development Company",
+    "decs": "Comfygen is the ideal option if you're seeking for a reputable and knowledgeable DeFi smart contract development company. We have a group of talented programmers who focus on developing specialized solutions for decentralized financial apps. By working with Comfygen, you can take advantage of our experience creating safe, effective, and scalable smart contracts for different DeFi use cases like lending, borrowing, insurance, tokenization, and cryptocurrency exchanges. We are familiar with the nuances of the DeFi market and can guide you through them so you may accomplish your business goals."
+  },
+  "Whychoose": [
+    {
+      "num": "01",
+      "title": "Most Common Use Cases Of DeFi Smart Contract",
+      "decs": "Smart contracts have diverse applications across a wide range of industries due to their self-executing nature. In the past few years, Comfygen has served clients across diverse industries as a trusted smart contract development company."
+    }
+  ],
+  "Bestchoice": [
+    {
+      "num": "01",
+      "bg": "#F45F391A",
+      "title": "Finance & Banking",
+      "decs": "Comfygen is a leading DeFi smart contract development company that helps financial institutions improve data accuracy, reduce paperwork, strengthen security, and process transactions more quickly."
+    },
+    {
+      "num": "02",
+      "bg": "#F7F5FA",
+      "title": "Investing in real estate    ",
+      "decs": "Providing robust smart contract development solutions to real-estate businesses in order to streamline operations and ensure sales transparency.    "
+    },
+    {
+      "num": "03",
+      "bg": "#9A4ECC1A",
+      "title": "Logistics & Transport",
+      "decs": "A smart contract can track product flow in a granular way, automate consumer and B2B payments, and provide real-time visibility across the supply chain in the transport and logistics industry."
+    },
+    {
+      "num": "04",
+      "bg": "#6C54DE1A",
+      "title": "Providing performance-driven smart contract development services",
+      "decs": "Using Blockchain Smart Contract Solutions, develop a custom contract management system I'd like to hear from you."
+    }
+  ],
+  "Banefit": [
+    {
+      "num": "1",
+      "bg": "#F45F391A",
+      "title": "Precision unmatched",
+      "decs": "Automated smart contracts prevent errors and improve accuracy by removing the need for human intervention."
+    },
+    {
+      "num": "2",
+      "bg": "#6C54DE1A",
+      "title": "Transactions that are fast",
+      "decs": "A smart contract automates all financial operations, allowing for faster and error-free processing by avoiding the lengthy process of validating credentials and other information manually."
+    },
+    {
+      "num": "3",
+      "bg": "#82AB101A",
+      "title": "A transparent process",
+      "decs": "Especially in the financial sector, smart contracts are inherently transparent, meeting a global demand for more transparent services."
+    }
+  ],
+  "Frequently": [
+    {
+      "num": "01",
+      "title": "What are DeFi smart contracts ?",
+      "desc": "On a decentralized network, smart contracts automate business applications using self-executing lines of code."
+    },
+    {
+      "num": "02",
+      "title": "Does DeFi need smart contracts ?",
+      "desc": "The DeFi services are based on smart contracts which automate all background processes involved in every transaction."
+    },
+    {
+      "num": "03",
+      "title": "How long does it take to develop a DeFi smart contract ?",
+      "desc": "Our DeFi Smart contract apps are generally developed within 7-10 days. For complex projects, it can take 3-5 days depending on your choice of features and functionalities."
+    }
+  ],
+  "High": [
+    {
+      "num": "1",
+      "number": "01",
+      "title": "Requirements Analysis",
+      "decs": "1. Understand the requirements of the business",
+      "decs1": "2. Incorporate the business logic you want",
+      "decs2": "3. Create a roadmap"
+    },
+    {
+      "num": "2",
+      "number": "02",
+      "title": "Designing the technical specifications",
+      "decs": "1. The smart contract should be defined in a document",
+      "decs1": "2. Creation of a data flow diagram",
+      "decs2": "3. Architecture design for technical systems"
+    },
+    {
+      "num": "3",
+      "number": "03",
+      "title": "Development of the project",
+      "decs": "1. Implement the smart contract solution proposed",
+      "decs1": "2. Feedback and evaluation from clients",
+      "decs2": " 3. The development of smart contracts should be completed"
+    },
+    {
+      "num": "4",
+      "number": "04",
+      "title": "Testing and deployment",
+      "decs": "1. Deploying the testnet",
+      "decs1": "2. Main network deployment of smart contracts",
+      "decs2": "3. Organize the backlog by priority"
+    }
+  ]
+}

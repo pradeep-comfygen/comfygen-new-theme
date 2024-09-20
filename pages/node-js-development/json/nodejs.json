@@ -1,0 +1,77 @@
+{
+  "NewSections": {
+    "title": "Top Node.js Development Company",
+    "decs": "Comfygen is a well-known Node.js development firm that provides all-inclusive Node.js development services. As a top Node.js development company, we offer excellent solutions and services that are customized to meet your unique needs. Our staff of talented Node.js engineers is available for hire in India, and our solutions for Node.js development include web development services. For all of your Node.js development requirements, turn to Comfygen."
+  },
+  "Hire": [
+    {
+      "num": "1",
+      "title": "Hire Node.Js Application Developers",
+      "desc": " What skills are required of Node.js developers ?",
+      "url": "/contact-us",
+      "btn": "Hire Developer"
+    }
+  ],
+  "myList": [
+    " Understanding design thinking.",
+    "It is necessary to be proficient in JavaScript.",
+    "Node.js expertise.",
+    "The ability to program functionally, asynchronously, and parallelly is required.",
+    "Mobile and web delivery platforms must be thoroughly understood.",
+    "Expertise in front-end technologies.",
+    "Debugging existing bugs and integrating modules are essential skills."
+  ],
+  "Frequently": [
+    {
+      "num": "1",
+      "title": "What is Node.JS development ?",
+      "desc": "Developers can quickly and easily create scalable, fast web applications using Node.js, an open-source JavaScript runtime environment. Based on an event-driven, non-blocking I/O model, it is lightweight, efficient, and ideal for data-intensive real-time apps."
+    },
+    {
+      "num": "2",
+      "title": "What can Node.JS be used for ?",
+      "desc": "The most common use cases for Node JS are as follows: Apps for web and mobile devices, video conferencing apps, instant messaging, live chat, eCommerce transaction software, online gaming software, server-side applications, and chat servers"
+    },
+    {
+      "num": "3",
+      "title": "Is Node.JS good for enterprise applications ?",
+      "desc": "Choosing any programming language over another will have some advantages. Node.JS, however, is a different story. A great option for enterprise application development, this web development platform offers modern tools and a forward-looking approach to developing complex apps"
+    }
+  ],
+  "myList1": [
+    "Chat in real time",
+    "Apps for streaming",
+    "Development of plug-ins",
+    "Development of e-commerce",
+    "Single-page applications that are complex",
+    "Architecture based on microservices",
+    "Development of portals",
+    "Development of enterprise apps using Node.Js",
+    "Tools for real-time collaboration",
+    "Architecture for serverless computing",
+    "Development of CMS",
+    "Solutions based on IoT"
+  ],
+  "Pros": [
+    "Model based on fast processing and events",
+    "Ecosystem that is rich",
+    "Technology stack that is robust",
+    "Microservices technology that is scalable",
+    "Support for JSON seamlessly",
+    "Support from strong sources"
+  ],
+  "Cons": [
+    "Issues with callbacks",
+    "Professionals with experience are in greater demand",
+    "Tooling immaturityt",
+    "Heavy computations cause performance bottlenecks"
+  ],
+  "Development": [
+    "Development of web applications",
+    "Development of mobile applicationsd",
+    "Development of SPAs",
+    "Development of APIs",
+    "Custom Node.js development",
+    "Enterprise software solutions"
+  ]
+}

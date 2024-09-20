@@ -1,0 +1,35 @@
+<svg width="1251" height="292" viewBox="0 0 1251 292" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_1923_47116" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1251" height="292">
+<rect width="1251" height="292" rx="5" fill="#F5F5F5"/>
+</mask>
+<g mask="url(#mask0_1923_47116)">
+<path d="M1265 -32.5V-1.5L1234 14M1234 14L1203 -1.5V-32.5M1234 14V-17" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1203 -32.5V-1.5L1172 14M1172 14L1141 -1.5V-32.5M1172 14V-17" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1141 -32.5V-1.5L1110 14M1110 14L1079 -1.5V-32.5M1110 14V-17" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1296 14V45L1265 60.5L1234 45V14" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1234 14V45L1203 60.5M1203 60.5L1172 45V14M1203 60.5V29.5" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1203 29.5L1172 14L1203 -1.5L1234 14L1203 29.5Z" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1172 14V45L1141 60.5M1141 60.5L1110 45V14M1141 60.5V29.5" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1141 29.5L1110 14L1141 -1.5L1172 14L1141 29.5Z" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1265 60.5V91.5L1234 107M1234 107L1203 91.5V60.5M1234 107V76" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1234 76L1203 60.5L1234 45L1265 60.5L1234 76Z" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1296 107V138L1265 153.5M1265 153.5L1234 138V107M1265 153.5V122.5" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1234 107L1265 91.5L1296 107L1265 122.5" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1234 107V138L1203 153.5M1203 153.5L1172 138V107M1203 153.5V122.5" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1203 122.5L1172 107L1203 91.5L1234 107L1203 122.5Z" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1265 153.5V184.5L1234 200M1234 200L1203 184.5V153.5M1234 200V169" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1234 169L1203 153.5L1234 138L1265 153.5L1234 169Z" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1296 200V231L1265 246.5M1265 246.5L1234 231V200M1265 246.5V215.5" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M1265 215.5L1234 200L1265 184.5L1296 200L1265 215.5Z" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M23 153.5V184.5L-8 200M-8 200L-39 184.5V153.5M-8 200V169" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M-8 169L-39 153.5L-8 138L23 153.5L-8 169Z" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M54 200V231L23 246.5M23 246.5L-8 231V200M23 246.5V215.5" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M23 215.5L-8 200L23 184.5L54 200L23 215.5Z" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M85 246.5V277.5L54 293M54 293L23 277.5V246.5M54 293V262" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M54 262L23 246.5L54 231L85 246.5L54 262Z" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M23 246.5V277.5L-8 293M-8 293L-39 277.5V246.5M-8 293V262" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M-8 262L-39 246.5L-8 231L23 246.5L-8 262Z" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M85 308.5L54 293L85 277.5L116 293L85 308.5Z" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+<path d="M23 308.5L-8 293L23 277.5L54 293L23 308.5Z" stroke="#FFC300" stroke-width="0.62" stroke-linejoin="round"/>
+</g>
+</svg>

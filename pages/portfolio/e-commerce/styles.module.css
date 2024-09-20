@@ -1,0 +1,13 @@
+.herobg{
+    background: url(/img/gcn-bg.webp) no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.featuresbg{
+    background: url(/img/features-e-commerce-bg.webp) no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
